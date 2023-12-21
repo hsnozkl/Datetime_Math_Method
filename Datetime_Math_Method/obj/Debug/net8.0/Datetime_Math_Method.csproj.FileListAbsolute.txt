@@ -1,0 +1,14 @@
+C:\Users\hasan\OneDrive\Masaüstü\Patika\Datetime_Math_Method\obj\Debug\net8.0\Datetime_Math_Method.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hasan\OneDrive\Masaüstü\Patika\Datetime_Math_Method\obj\Debug\net8.0\Datetime_Math_Method.AssemblyInfoInputs.cache
+C:\Users\hasan\OneDrive\Masaüstü\Patika\Datetime_Math_Method\obj\Debug\net8.0\Datetime_Math_Method.AssemblyInfo.cs
+C:\Users\hasan\OneDrive\Masaüstü\Patika\Datetime_Math_Method\obj\Debug\net8.0\Datetime_Math_Method.csproj.CoreCompileInputs.cache
+C:\Users\hasan\OneDrive\Masaüstü\Patika\Datetime_Math_Method\bin\Debug\net8.0\Datetime_Math_Method.exe
+C:\Users\hasan\OneDrive\Masaüstü\Patika\Datetime_Math_Method\bin\Debug\net8.0\Datetime_Math_Method.deps.json
+C:\Users\hasan\OneDrive\Masaüstü\Patika\Datetime_Math_Method\bin\Debug\net8.0\Datetime_Math_Method.runtimeconfig.json
+C:\Users\hasan\OneDrive\Masaüstü\Patika\Datetime_Math_Method\bin\Debug\net8.0\Datetime_Math_Method.dll
+C:\Users\hasan\OneDrive\Masaüstü\Patika\Datetime_Math_Method\bin\Debug\net8.0\Datetime_Math_Method.pdb
+C:\Users\hasan\OneDrive\Masaüstü\Patika\Datetime_Math_Method\obj\Debug\net8.0\Datetime_Math_Method.dll
+C:\Users\hasan\OneDrive\Masaüstü\Patika\Datetime_Math_Method\obj\Debug\net8.0\refint\Datetime_Math_Method.dll
+C:\Users\hasan\OneDrive\Masaüstü\Patika\Datetime_Math_Method\obj\Debug\net8.0\Datetime_Math_Method.pdb
+C:\Users\hasan\OneDrive\Masaüstü\Patika\Datetime_Math_Method\obj\Debug\net8.0\Datetime_Math_Method.genruntimeconfig.cache
+C:\Users\hasan\OneDrive\Masaüstü\Patika\Datetime_Math_Method\obj\Debug\net8.0\ref\Datetime_Math_Method.dll
